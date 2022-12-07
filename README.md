@@ -1,0 +1,2 @@
+# ReactTrainingFrontend
+Frontend training project
